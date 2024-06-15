@@ -1,1 +1,1 @@
-jenkins/jnlp-slave:4.13.3-1-jdk11
+jenkins/inbound-agent:3248.v65ecb_254c298-2
