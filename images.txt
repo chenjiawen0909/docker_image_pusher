@@ -1,1 +1,1 @@
-jenkins/inbound-agent:latest-jdk17
+jenkins/inbound-agent:bookworm-jdk11
