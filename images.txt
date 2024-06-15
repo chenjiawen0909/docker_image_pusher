@@ -1,1 +1,1 @@
-jenkins/inbound-agent:bookworm-jdk11
+rockwang415/jenkins-slave-maven 
